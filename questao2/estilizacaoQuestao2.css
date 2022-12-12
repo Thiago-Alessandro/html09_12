@@ -1,0 +1,40 @@
+html{
+	
+	background-color: black;
+	color:white;
+}
+
+input{
+	
+	heigth: 50px;
+	width: 300px;
+
+}
+
+div{
+	
+	display: flex;
+	justify-content: center;
+
+}
+
+table{
+	
+	border: solid white
+
+}
+
+th{
+	
+	border: solid white
+	text-align: center;
+
+}
+
+
+td{
+	
+	border: solid white;	
+	text-align: center;
+
+}
